@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>estilo</title>
+  </head>
+  <body>
+    <p>body{</p>
+    <p>background-color:steelblue;</p>
+    <p><br>
+    </p>
+    <p>h1{</p>
+    <p>color: whit<span style="font-family: Consolas,&quot;courier new&quot;;">e;</span></p>
+    <p><span style="font-family: Consolas,&quot;courier new&quot;;">margin-left:20px;<br>
+      </span></p>
+    <p>}</p>
+    <p><span style="font-family: Consolas,&quot;courier new&quot;;">p{</span></p>
+    <p><span style="font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">width</span><span
+        class="csspropertyvaluecolor" style="box-sizing: inherit; font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial;"><span
+          class="cssdelimitercolor" style="box-sizing: inherit;">:</span><span>&nbsp;</span>300px<span
+          class="cssdelimitercolor" style="box-sizing: inherit;">;</span></span><br
+        style="box-sizing: inherit; font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial;">
+      <span style="font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">margin</span><span
+        class="csspropertyvaluecolor" style="box-sizing: inherit; font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial;"><span
+          class="cssdelimitercolor" style="box-sizing: inherit;">:</span><span>&nbsp;</span>auto<span
+          class="cssdelimitercolor" style="box-sizing: inherit;">;</span></span><span
+        style="font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br>
+      </span></p>
+    <p><span style="font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">border</span><span
+        class="csspropertyvaluecolor" style="box-sizing: inherit; font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial;"><span
+          class="cssdelimitercolor" style="box-sizing: inherit;">:</span><span>&nbsp;</span>1px
+        black<span class="cssdelimitercolor" style="box-sizing: inherit;">;</span></span></p>
+    <p><span class="csspropertyvaluecolor" style="box-sizing: inherit; font-family: Consolas,&quot;courier new&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial;"><span
+          class="cssdelimitercolor" style="box-sizing: inherit;">}<br>
+        </span></span></p>
+    <p>&nbsp;&nbsp;&nbsp; </p>
+  </body>
+</html>
